@@ -1,4 +1,4 @@
-# Terraform ファイルの構成
+# Terraform の基本
 
 ファイル構成を簡単に纏めておく
 ![image](./basic_knowlege.png)
