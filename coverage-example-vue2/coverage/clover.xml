@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1690678778293" clover="3.2.0">
-  <project timestamp="1690678778293" name="All files">
+<coverage generated="1690681331300" clover="3.2.0">
+  <project timestamp="1690681331300" name="All files">
     <metrics statements="138" coveredstatements="4" conditionals="333" coveredconditionals="0" methods="57" coveredmethods="1" elements="528" coveredelements="5" complexity="0" loc="138" ncloc="138" packages="4" files="10" classes="10"/>
     <package name="coverage-example-vue2">
       <metrics statements="5" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="0" coveredmethods="0"/>
